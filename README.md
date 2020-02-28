@@ -1,0 +1,2 @@
+# myTest
+ignore this repository
